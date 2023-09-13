@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_ppp.jpeg.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\ppp.jpeg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-24:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_iiii.jpg.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\iiii.jpg"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_nnn.png.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\nnn.png"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_bakery_dining_24.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\baseline_bakery_dining_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_person_2_24.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\baseline_person_2_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_how_to_reg_24.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\baseline_how_to_reg_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_fingerprint_24.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\baseline_fingerprint_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_jjj.jpg.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\jjj.jpg"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_oooo.png.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\oooo.png"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_ddd.png.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\ddd.png"
+    }
+]
