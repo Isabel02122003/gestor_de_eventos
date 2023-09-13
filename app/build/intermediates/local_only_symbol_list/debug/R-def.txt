@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_bakery_dining_24
+drawable baseline_fingerprint_24
+drawable baseline_how_to_reg_24
+drawable baseline_password_24
+drawable baseline_person_2_24
+drawable baseline_person_outline_24
+drawable ddd
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable iiii
+drawable jjj
+drawable nnn
+drawable oooo
+drawable ppp
+id btn
+id btn1
+id btn2
+id img
+id img1
+id img2
+id img3
+id img4
+id txt
+id txt1
+id txt2
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
