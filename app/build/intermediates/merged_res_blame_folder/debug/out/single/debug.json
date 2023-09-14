@@ -8,16 +8,20 @@
         "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\ppp.jpeg"
     },
     {
+        "merged": "com.example.myapplication.app-merged_res-24:/drawable_baseline_group_24.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/drawable/baseline_group_24.xml"
+    },
+    {
         "merged": "com.example.myapplication.app-merged_res-24:/layout_layout.xml.flat",
         "source": "com.example.myapplication.app-main-26:/layout/layout.xml"
     },
     {
-        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_iiii.jpg.flat",
-        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\iiii.jpg"
-    },
-    {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_nnn.png.flat",
         "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\nnn.png"
+    },
+    {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_iiii.jpg.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\iiii.jpg"
     },
     {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -28,8 +32,16 @@
         "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\layout_layout.xml.flat",
+        "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\layout\\layout.xml"
+    },
+    {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-24:/drawable_baseline_computer_24.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/drawable/baseline_computer_24.xml"
     },
     {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_bakery_dining_24.xml.flat",
@@ -46,6 +58,14 @@
     {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-24:/drawable_baseline_business_24.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/drawable/baseline_business_24.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-24:/drawable_baseline_insights_24.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/drawable/baseline_insights_24.xml"
     },
     {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\layout_activity_main.xml.flat",
@@ -72,8 +92,20 @@
         "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.myapplication.app-merged_res-24:/drawable_baseline_assured_workload_24.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/drawable/baseline_assured_workload_24.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-24:/drawable_baseline_miscellaneous_services_24.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/drawable/baseline_miscellaneous_services_24.xml"
+    },
+    {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_how_to_reg_24.xml.flat",
         "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\baseline_how_to_reg_24.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-24:/drawable_baseline_apartment_24.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/drawable/baseline_apartment_24.xml"
     },
     {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_baseline_fingerprint_24.xml.flat",
@@ -102,6 +134,10 @@
     {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-26:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-24:/drawable_baseline_room_preferences_24.xml.flat",
+        "source": "com.example.myapplication.app-main-26:/drawable/baseline_room_preferences_24.xml"
     },
     {
         "merged": "C:\\Users\\APRENDIZ\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-24:\\drawable_oooo.png.flat",

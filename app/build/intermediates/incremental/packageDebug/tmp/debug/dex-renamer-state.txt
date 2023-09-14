@@ -1,4 +1,4 @@
-#Thu Sep 14 13:59:35 COT 2023
+#Wed Sep 27 14:40:12 COT 2023
 base.0=C\:\\Users\\APRENDIZ\\Documents\\GitHub\\gestor_de_eventos\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\APRENDIZ\\Documents\\GitHub\\gestor_de_eventos\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\APRENDIZ\\Documents\\GitHub\\gestor_de_eventos\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
