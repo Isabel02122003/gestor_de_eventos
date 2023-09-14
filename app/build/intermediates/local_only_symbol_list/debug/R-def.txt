@@ -28,6 +28,7 @@ id txt
 id txt1
 id txt2
 layout activity_main
+layout layout
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
