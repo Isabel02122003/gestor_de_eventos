@@ -2441,6 +2441,7 @@ drawable baseline_fingerprint_24
 drawable baseline_group_24
 drawable baseline_how_to_reg_24
 drawable baseline_insights_24
+drawable baseline_menu_24
 drawable baseline_miscellaneous_services_24
 drawable baseline_password_24
 drawable baseline_person_2_24
@@ -2628,6 +2629,7 @@ id btn5
 id btn6
 id btn7
 id btn8
+id button6
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2689,6 +2691,7 @@ id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
 id disjoint
+id divider6
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -2747,6 +2750,7 @@ id image
 id imageView3
 id imageView4
 id imageView5
+id imageView8
 id img
 id img1
 id img2
@@ -3122,6 +3126,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout layout
+layout layout2
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
